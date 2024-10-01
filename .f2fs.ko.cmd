@@ -1,0 +1,1 @@
+savedcmd_/home/syslab/workspace_dat/f2fs_scalecache/f2fs_module/f2fs.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/syslab/workspace_dat/f2fs_scalecache/f2fs_module/f2fs.ko /home/syslab/workspace_dat/f2fs_scalecache/f2fs_module/f2fs.o /home/syslab/workspace_dat/f2fs_scalecache/f2fs_module/f2fs.mod.o;  true
